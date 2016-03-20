@@ -7,5 +7,6 @@ public class TestEgit {
 		System.out.println("aaaaw");
 		System.out.println("收到");
 		System.out.println("2");
+		System.out.println("3");
 	}
 }
